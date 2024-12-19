@@ -104,36 +104,18 @@ Contains images reflecting features associated with ASD.
 
 ---
 
-## Contributors and Roles
-
-### Sarina
-- **Role**: Lead Developer & Project Manager  
-- **Responsibilities**:  
-  - Designed and developed the CNN-based model.  
-  - Managed project milestones and overall system integration.  
+## Contributors and Roles 
 
 ### Sanyuktha Shetty
-- **Role**: Dataset Curator & Preprocessing Specialist  
-- **Responsibilities**:  
-  - Curated and prepared the dataset for training and testing.  
-  - Implemented data preprocessing techniques such as augmentation and normalization.  
+- **Role**: Dataset Curator & Preprocessing Specialist 
 
 ### Sammrudhi H R
 - **Role**: Model Trainer & Optimizer  
-- **Responsibilities**:  
-  - Trained the CNN model and implemented transfer learning.  
-  - Optimized the model for improved test accuracy.  
 
 ### Shraddha Singh
 - **Role**: Flask Integration & UI Developer  
-- **Responsibilities**:  
-  - Designed and developed the Flask web interface.  
-  - Integrated the model with the user interface for seamless user interaction.  
 
 ### Miliyana Reena Dsouza
 - **Role**: Testing & Validation Engineer  
-- **Responsibilities**:  
-  - Performed rigorous testing to validate model accuracy and reliability.  
-  - Ensured the system meets performance benchmarks.  
 
 
